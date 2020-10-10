@@ -71,7 +71,7 @@ theme = "hugo-elate-theme"
     description = "Our dentists are experienced practicioners who can handle complicated cases. They are actively and continuously improving and educating themselves on different fields of dentistry."
     # url = "#"
     # button = "Why us?"
-    icon = "icon-rocket"
+    icon = "icon-graduation"
     img = "img_10.jpg"
 
   [params.intro.video]
@@ -128,26 +128,31 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "See what our patients has to say!"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person1.jpg"
+      quote = "&ldquo;Dr. Ken and Dr. Louie are very accomodating to their patients and are very knowledgable in their profession. Both being graduates of UP, you can definitely see their competence in their craft. They also offer specialty procedures for a very affordable price. Their clinic is located in southwoods city which is very accessible, not only to the local Laguna community, but also to nearby cities such as Manila, Cavite, and Tagaytay. The clinic has a warm and cozy atmosphere which is helpful in easing your ‘phobia’ when visiting dentists. Luxe Smiles proves that you don’t need to break bank just to have quality dental treatment. :)&rdquo;"
+      person = 'Daryl Galvez'
+      img = "daryl.jpg"
       alt = "Person1"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
+      quote = "&ldquo;I highly recommend this clinic 🙂 Both Dra. Ken & Dra. Louie are friendly 🙂 And you will not be frustrated & afraid of the procedures.&rdquo;"
+      person = 'Reuel John Marquina'
+      img = "reuel.jpg"
       alt = "Person2"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
+      quote = "&ldquo;I went to the clinic to have my impacted teeth removed. At first I was really scared but when I found out the dentists were specially trained in surgery, i felt safer. They went through the proper diagnosis first and then the procedures went smoothly.. Will definitely recommend this clinic to my friends and family. Thank you so much!&rdquo;"
+      person = 'Em Iso'
+      img = "mio1.jpg"
       alt = "Person3"
 
+    [[params.testimonials.item]]
+      quote = "&ldquo;I was referred to this clinic for management of my gum problems. Their dentist explained my condition very well and the treatment that i need to undergo. The procedure went well and my gums are not bleeding. I am one happy patient. Two thumbs up 🙂&rdquo;"
+      person = 'MJ Trinidad'
+      img = "jho1.jpg"
+      alt = "Person4"
 
 
 
