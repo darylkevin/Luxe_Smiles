@@ -197,7 +197,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Dr. Louielyn Panganiban"
-      position = "Dental Surgeon, TMJD Treatment, Prosthodontics, Periodontal Treatment"
+      position = "Dental Surgeon, TMJD Treatment, Prosthodontics, Periodontal Treatment, Orthodontics"
       description = "Dr. Louielyn Panganiban honed her skills in several fields, namely dental surgery, TMJD Treatment and periodontal treatment. She ranked 7th in PRC Dental Board Examination. She is well versed in proper diagnoses and in viewing dental concerns wholistically in order to provide the best possible dental care."
       img = "fblou1.jpg"
       alt = "Person2"
@@ -210,7 +210,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Dr. Sarah Panganiban"
-      position = "Pediatric Dentistry and Orthodontic"
+      position = "Pediatric Dentistry and Orthodontics"
       description = "Dr. Sarah Panganiban specializes in pediatric dental care. She has proper training in management of pediatric patients including healthy, medically compromized, behaviorally challenging patients and various other special conditions."
       img = "fbsarah1.jpg"
       alt = "Person3"
@@ -237,7 +237,7 @@ theme = "hugo-elate-theme"
 
     [[params.counters.item]]
       description = "Lines of code"
-      icon = "icon-code"
+      icon = "icon-heart"
       from = 0
       to = 2343409
       interval = 50
@@ -265,13 +265,15 @@ theme = "hugo-elate-theme"
     map = true
     form = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Give us a call! Send us a message! You can also visit our clinic! You can be sure that quality dental care is always available to you."
 
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Room B303 Coral Center Southwoods City, Binãn, Laguna, Philippines 4024"],
+        ["icon-phone", "(02) 330 02 50", "0910 450 8110", "0975 378 3790"],
         ["icon-phone", "0910 450 8110"],
-        # ["icon-envelope", "info@freehtml5.co"],
+        ["icon-phone", "0975 378 3790"],
+        ["icon-envelope", "luxesmilesdc@gmail.com"],
         # ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
 
