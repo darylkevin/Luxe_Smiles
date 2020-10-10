@@ -75,7 +75,7 @@ theme = "hugo-elate-theme"
     img = "img_10.jpg"
 
   [params.intro.video]
-    enable = true
+    enable = false
     title = "Watch the video"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
