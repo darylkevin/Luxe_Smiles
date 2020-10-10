@@ -160,28 +160,39 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "We offer a wide range of services and tailor-fit them depending on your needs, with your safety and health at the top priority."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
+      title = "Dental Surgery"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
+      icon = "icon-heart"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
+      title = "Implants Dentistry"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
+      icon = "icon-like"
+
     [[params.services.item]]
-      title = "Photo &amp; Video"
+      title = "Periodontal Treatment"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      icon = "icon-heart"
 
-      [[params.services.item]]
-      title = "CMS &amp; eCommerce"
+    [[params.services.item]]
+      title = "Orthodontics"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-monitor"
+      icon = "icon-like"
 
-  # About section
+    [[params.services.item]]
+      title = "Endodontics"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      icon = "icon-heart"
+
+    [[params.services.item]]
+      title = "Prosthodontics"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      icon = "icon-like"
+
+# About section
   [params.about]
     enable = true
     title = "Meet our Dentists!"
