@@ -227,34 +227,34 @@ theme = "hugo-elate-theme"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
-      description = "Finished projects"
-      icon = "icon-briefcase"
-      from = 0
-      to = 89
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Lines of code"
-      icon = "icon-heart"
-      from = 0
-      to = 2343409
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Cups of coffee"
-      icon = "icon-cup"
-      from = 0
-      to = 1302
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Happy clients"
+      description = "Adult patients served"
       icon = "icon-people"
       from = 0
-      to = 52
+      to = 2543
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Successful odontects"
+      icon = "icon-heart"
+      from = 0
+      to = 508
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Successful implants procedure"
+      icon = "icon-wrench"
+      from = 0
+      to = 30
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Pediatric patients served"
+      icon = "icon-people"
+      from = 0
+      to = 152
       interval = 50
       speed = 5000
 
@@ -285,7 +285,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = '&copy; Luxe Smiles Dental Center. This site is made using Hugo and themed with hugo-elate-theme.'
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
