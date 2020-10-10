@@ -186,7 +186,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Dr. Keneshia Tingson"
       position = "Dental Surgeon, Dental Implant, Esthetic Dentist, Periodontal Treatment"
-      description = "Dr. Keneshia Tingson is specially trained in dental surgery and hospital dentistry. She has trained under the experts in the field of implant dentistry. She also manages periodontal problems and specialized procedures in dental surgery."
+      description = "Dr. Keneshia Tingson received special training in dental surgery and hospital dentistry. She was mentored by different experts in the field of implant dentistry. She is adept at managing periodontal problems and specializes in dental surgery procedures."
       img = "fbken.jpg"
       alt = "Keneshia Tingson"
       social = [
@@ -196,27 +196,29 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
+      name = "Dr. Louielyn Panganiban"
+      position = "Dental Surgeon, TMJD Treatment, Prosthodontics, Periodontal Treatment"
+      description = "Dr. Louielyn Panganiban honed her skills in several fields, namely dental surgery, TMJD Treatment and periodontal treatment. She ranked 7th in PRC Dental Board Examination. She is well versed in proper diagnoses and in viewing dental concerns wholistically in order to provide the best possible dental care."
+      img = "fblou1.jpg"
       alt = "Person2"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
+        # ["icon-twitter", "#"],
+        # ["icon-facebook", "#"],
+        # ["icon-github", "#"]
+        ["icon-linkedin", "#"]
       ]
 
     [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
+      name = "Dr. Sarah Panganiban"
+      position = "Pediatric Dentistry and Orthodontic"
+      description = "Dr. Sarah Panganiban specializes in pediatric dental care. She has proper training in management of pediatric patients including healthy, medically compromized, behaviorally challenging patients and various other special conditions."
+      img = "fbsarah1.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        # ["icon-twitter", "#"],
+        # ["icon-facebook", "#"],
+        # ["icon-dribbble", "#"]
+        ["icon-linkedin", "#"]
       ]
 
   # Counters section
