@@ -279,7 +279,7 @@ tags = ["dentist", "dentistry", "surgery"]
   [params.contact]
     enable = true
     map = true
-    form = true
+    form = false
     title = "Get in touch"
     description = "Give us a call! Send us a message! You can also visit our clinic! You can be sure that quality dental care is always available to you."
 
