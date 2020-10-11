@@ -221,7 +221,7 @@ tags = ["dentist", "dentistry", "surgery"]
         # ["icon-twitter", "#"],
         # ["icon-facebook", "#"],
         # ["icon-github", "#"]
-        ["icon-linkedin", "www.linkedin.com/in/louiepanganiban"]
+        ["icon-linkedin", "https://www.linkedin.com/in/louiepanganiban"]
       ]
 
     [[params.about.item]]
