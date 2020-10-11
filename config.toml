@@ -3,6 +3,7 @@ baseurl = "localhost:1313"
 title = "Luxe Smiles Dental Center"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
+tags = ["dentist", "dentistry", "surgery"]
 
 [params]
 
