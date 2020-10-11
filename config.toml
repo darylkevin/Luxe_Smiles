@@ -234,7 +234,7 @@ tags = ["dentist", "dentistry", "surgery"]
         # ["icon-twitter", "#"],
         # ["icon-facebook", "#"],
         # ["icon-dribbble", "#"]
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/sarah-panganiban/"]
       ]
 
   # Counters section
