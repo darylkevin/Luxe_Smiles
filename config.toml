@@ -208,7 +208,7 @@ tags = ["dentist", "dentistry", "surgery"]
       social = [
         # ["icon-twitter", "#"],
         # ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/keneshia-chantelle-tingson-083004128/"]
       ]
 
     [[params.about.item]]
