@@ -304,7 +304,7 @@ tags = ["dentist", "dentistry", "surgery"]
     enable = true
     copyright = '&copy; Luxe Smiles Dental Center. This site is made using Hugo and themed with hugo-elate-theme.'
     links = [
-        ["icon-twitter", "#twitter"],
-        ["icon-facebook", "#facebook"],
-        ["icon-youtube", "#youtube"]
+        # ["icon-twitter", "#twitter"],
+        # ["icon-facebook", "#facebook"],
+        # ["icon-youtube", "#youtube"]
       ]
