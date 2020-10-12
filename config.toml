@@ -207,7 +207,7 @@ tags = ["dentist", "dentistry", "surgery"]
       alt = "Keneshia Tingson"
       social = [
         # ["icon-twitter", "#"],
-        # ["icon-facebook", "#"],
+        ["icon-youtube", "https://www.youtube.com/channel/UCQP_DC2wADuMnV6kTEhqL6Q"],
         ["icon-linkedin", "https://www.linkedin.com/in/keneshia-chantelle-tingson-083004128/"]
       ]
 
