@@ -165,33 +165,33 @@ tags = ["dentist", "dentistry", "surgery"]
 
     [[params.services.item]]
       title = "Dental Surgery"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      description = ""
       icon = "icon-heart"
 
     [[params.services.item]]
       title = "Implants Dentistry"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      description = ""
       icon = "icon-like"
 
     [[params.services.item]]
       title = "Periodontal Treatment"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-heart"
+      description = ""
+      icon = "icon-diamond"
 
     [[params.services.item]]
       title = "Orthodontics"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-like"
+      description = ""
+      icon = "icon-info"
 
     [[params.services.item]]
       title = "Endodontics"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-heart"
+      description = ""
+      icon = "icon-star"
 
     [[params.services.item]]
       title = "Prosthodontics"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-like"
+      description = ""
+      icon = "icon-check"
 
 # About section
   [params.about]
